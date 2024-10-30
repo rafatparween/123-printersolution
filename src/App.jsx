@@ -3,7 +3,7 @@ import Home from './pages/Home';
 import Navbar from './pages/Navbar';
 import PrinterOffline from './service/PrinterOffline';
 import Footer from './pages/Footer';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import PrinterSetup from './service/PrinterSetupIssue';
 import ScannerSetup from './service/Scannersetup';
 import PrivacyPolicy from './service/PrivacyPolicy';

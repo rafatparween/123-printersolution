@@ -101,7 +101,7 @@ const Home = () => {
         </div>
       </main>
       <PrinterSetup />
-      <CustomerReviews />
+      {/* <CustomerReviews /> */}
       <Disclaimer />
     </>
   );
